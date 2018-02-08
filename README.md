@@ -5,3 +5,5 @@ The goal of this project is to build a simple python tool that would allow one t
 # References
 
 [Here's an interesting analysis on listening habits using R.](http://www.jayblanco.com/blog/2016/7/9/using-lastfm-and-r-to-understand-my-music-listening-habits) This serves as inspiration.
+
+Here's a last.fm alternative: https://libre.fm/
